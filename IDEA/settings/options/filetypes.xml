@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="功能重复-useless" type="PLAIN_TEXT" />
+      <mapping pattern="V1 职位红包有关-useless" type="PLAIN_TEXT" />
+      <mapping pattern="职位域-useless" type="PLAIN_TEXT" />
+      <mapping pattern="职位留言板-useless" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

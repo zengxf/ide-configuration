@@ -1,0 +1,121 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/intellij-java-google-style.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="K:/install/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6423659" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DEVKIT_SANDBOX_HISTORY" value="C:\Users\Administrator\.IntelliJIdea2017.1\system\plugins-sandbox" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="FileTemplates.SelectedTemplate" value="valueResourceFile" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.1216545" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.13860014" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16103059" />
+    <property name="INSPECTION_FILTER_HISTORY" value="checksty" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="find&#10;close&#10;print&#10;doc&#10;proje" />
+    <property name="LAST_INJECTED_LANGUAGE" value="GenericSQL" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.11043622" />
+    <property name="MavenModuleWizard.inheritGroupId" value="false" />
+    <property name="MavenModuleWizard.inheritVersion" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveClassWithTarget.OpenInEditor" value="false" />
+    <property name="PLUGIN_FILTER" value="rest&#10;gradle view&#10;lom&#10;mav&#10;SequenceDiagram" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="&quot;&#10;T&#10;@RequestParam(required = false)&#10;String fileName&#10;List&lt;ContractFeeDto&gt; contractList" />
+    <property name="SettingsSearchHistory" value="annotation&#10;anno&#10;gradle&#10;auto&#10;debug" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SpringBeanPointerFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10851872" />
+    <property name="SpringBeansModulesPanel[1]" value="0.1216545" />
+    <property name="SpringBeansModulesPanel[2]" value="0.13860014" />
+    <property name="SpringBeansModulesPanel[3]" value="0.16103059" />
+    <property name="SpringMvcController[0]" value="0.10851872" />
+    <property name="SpringMvcModulesPanel[0]" value="0.10851872" />
+    <property name="SpringMvcRequestMappingsPanel[0]" value="0.10851872" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.108342364" />
+    <property name="SpringRepositoriesModulesPanel[1]" value="0.12158055" />
+    <property name="Vcs.Log.Text.Filter.History" value="zengxf" />
+    <property name="android-component-compatibility-check" value="1522718263011" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.16" value="10" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="file.chooser.recent.files" value="K:/install/jdk/jdk-11.0.1&#10;M:/zxf-private/simplest-note-server/build.gradle&#10;K:/install/plugin/Gradle/gradle-5.1.1&#10;M:/project/hunter/code/auth-service/build.gradle&#10;M:/project/hunter/code/gateway/build.gradle&#10;M:/project/hunter/code/gateway&#10;M:/project/hunter/code/report-api&#10;M:/project/zxf_super_demo/small-frame/jdk-demo/java-9-demo/test-new-api&#10;M:/project/zxf_super_demo/small-frame/jdk-demo/java-9-demo/test-module-spi&#10;M:/project/zxf_super_demo/small-frame/jdk-demo/java-9-demo/test-module-associate&#10;M:/project/zxf_super_demo/small-frame/jdk-demo/java-9-demo/test-module&#10;K:/install/jdk/jdk-10&#10;M:/project/hunter/code/tool/idea-plugin-javadocs-plus/idea-plugin-javadocs-plus.zip&#10;C:/Users/Administrator/Desktop/intellij-java-google-style.xml&#10;K:/install/jdk/jdk-8u131-x64&#10;C:/Users/Administrator/Desktop/demo-reactor&#10;M:/project/zxf_super_demo/small-frame/idea-jdk-9&#10;M:/tmp/idea-jdk-9/j9-jar-v9&#10;M:/tmp/idea-jdk-9/j9-module-service2&#10;M:/tmp/idea-jdk-9/j9-module-service&#10;M:/tmp/idea-jdk-9/j9-module-optional2&#10;K:/install/jdk/jdk-9&#10;M:/project/MyDemo/kotlin/testjs&#10;C:/Users/Administrator/Desktop/DataCenter/pom.xml&#10;C:/Users/Administrator/Desktop/DataCenter&#10;M:/project/hunter/code/WebCrawler&#10;K:/install/idea/IntelliJ IDEA 2017.1.3&#10;M:/project/hunter/code/tool/idea-plugin-javadocs-plus&#10;M:/project/hunter/code/HunterPlusJava/pom.xml&#10;M:/project/hunter/code/HunterPlusJava/data-server-api" />
+    <property name="file.gist.reindex.count" value="29334" />
+    <property name="fileTypeChangedCounter" value="12" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="kotlin.lastUpdateCheck" value="1505701751012" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="M:/project/hunter/code/auth-service/build.gradle" />
+    <property name="last.used.gradle.home" value="K:/install/plugin/Gradle/gradle-5.1.1" />
+    <property name="plugins.preselection.path" value="M:/project/hunter/code/tool/idea-plugin-javadocs-plus" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="ToStringSettings">
+    <option name="replaceDialogInitialOption" value="Replace existing" />
+    <option name="whenDuplicatesOption" value="Replace existing" />
+  </component>
+</application>

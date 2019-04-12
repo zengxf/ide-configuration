@@ -1,0 +1,31 @@
+<application>
+  <component name="PowerModeII">
+    <option name="bamLife" value="541" />
+    <option name="blueFrom" value="25" />
+    <option name="blueTo" value="59" />
+    <option name="colorAlpha" value="98" />
+    <option name="customBamImageFolder" value="K:\install\idea\ideaIU-2018.1.2.win\bin" />
+    <option name="customFlameImageFolder" value="K:\install\idea\ideaIU-2018.1.2.win\bin" />
+    <option name="flameLife" value="1271" />
+    <option name="flamesEnabled" value="false" />
+    <option name="frameRate" value="17" />
+    <option name="gravityFactor" value="2.34" />
+    <option name="greenFrom" value="20" />
+    <option name="greenTo" value="234" />
+    <option name="heatup" value="14" />
+    <option name="heatupThreshold" value="8" />
+    <option name="heatupTime" value="3918" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isCaretAction" value="false" />
+    <option name="keyStrokesPerMinute" value="330" />
+    <option name="maxFlameSize" value="49" />
+    <option name="redFrom" value="92" />
+    <option name="redTo" value="121" />
+    <option name="shakeEnabled" value="false" />
+    <option name="soundsFolder" value="K:\install\idea\ideaIU-2018.1.2.win\bin" />
+    <option name="sparkCount" value="16" />
+    <option name="sparkLife" value="1095" />
+    <option name="sparkSize" value="2" />
+    <option name="sparkVelocityFactor" value="1.17" />
+  </component>
+</application>

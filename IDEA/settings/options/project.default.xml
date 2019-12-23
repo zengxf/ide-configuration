@@ -7,15 +7,35 @@
       <component name="CompilerWorkspaceConfiguration">
         <option name="MAKE_PROJECT_ON_SAVE" value="true" />
       </component>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
       <component name="GradleLocalSettings">
         <option name="projectSyncType">
           <map>
+            <entry key="M:/project/hunter/code/_smail-server/morning-news-server" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/_smail-server/tutorial-server" value="PREVIEW" />
             <entry key="M:/project/hunter/code/auth-service" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common-api" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common-elasticsearch" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common-mongo" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common-project/common" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common-project/common-mongo" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/common-web" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/data-server" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/email-server" value="PREVIEW" />
             <entry key="M:/project/hunter/code/gateway" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/message-server" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/scheduler-server" value="PREVIEW" />
+            <entry key="M:/project/hunter/code/wechat-server" value="PREVIEW" />
             <entry key="M:/project/zxf_super_demo/small-frame/jdk-demo/java-9-demo/test-module-associate" value="PREVIEW" />
             <entry key="M:/project/zxf_super_demo/small-frame/jdk-demo/java-9-demo/test-module-spi" value="PREVIEW" />
+            <entry key="M:/zxf-demo-github/small-frame-demo/GUI-demo/javafx-simple-test" value="PREVIEW" />
             <entry key="M:/zxf-private/simplest-note-server" value="PREVIEW" />
+            <entry key="M:/zxf-private/simplest-word-server" value="PREVIEW" />
+            <entry key="M:/zxf-private/simplest-word-sync" value="PREVIEW" />
+            <entry key="M:/zxf-private/small-projects/sms-bomber" value="PREVIEW" />
           </map>
         </option>
       </component>
@@ -29,7 +49,7 @@
       <component name="NodePackageJsonFileManager">
         <packageJsonPaths />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />

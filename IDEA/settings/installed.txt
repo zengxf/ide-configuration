@@ -1,8 +1,6 @@
 GrepConsole
-Lombook Plugin
 MavenRunHelper
-SequenceDiagram
 Statistic
-com.zhaow.restful.toolkit
+cn.wuzhizhan.plugin.mybatis
 de.ax.powermode
 org.ice1000.a8translate

@@ -1,8 +1,6 @@
 <templateSet group="Java">
   <template name="main" value="public static void main(String[] arr) {&#10;    $END$&#10;}" description="public static void main(String[] arr)" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
+    <context />
   </template>
   <template name="syso" value="System.out.println($END$);" description="system.out.println()" toReformat="false" toShortenFQNames="true">
     <context>

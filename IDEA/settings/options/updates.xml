@@ -11,12 +11,17 @@
     <ignoredBuildNumbers>
       <item value="182.5107.16" />
       <item value="181.5540.23" />
+      <item value="193.6494.35" />
+      <item value="193.6015.39" />
+      <item value="201.7846.76" />
+      <item value="201.8743.12" />
+      <item value="211.6693.111" />
     </ignoredBuildNumbers>
     <knownExternalComponentSources>
       <item value="Android SDK" />
     </knownExternalComponentSources>
-    <option name="LAST_BUILD_CHECKED" value="IC-193.5662.53" />
-    <option name="LAST_TIME_CHECKED" value="1577066186754" />
+    <option name="LAST_BUILD_CHECKED" value="IC-203.8084.24" />
+    <option name="LAST_TIME_CHECKED" value="1619573889291" />
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
   </component>
 </application>
